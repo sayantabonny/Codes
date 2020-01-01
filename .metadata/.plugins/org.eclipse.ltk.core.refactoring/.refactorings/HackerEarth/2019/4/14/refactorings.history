@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;hackerrank_challenge&apos; to &apos;HackerRank/src&apos;&#x0D;&#x0A;- Original project: &apos;HackerEarth&apos;&#x0D;&#x0A;- Destination element: &apos;HackerRank/src&apos;&#x0D;&#x0A;- Original element: &apos;HackerEarth/src/hackerrank_challenge&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=HackerRank/src" element1="/src&lt;hackerrank_challenge" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1554394845714" version="1.0"/>
+</session>

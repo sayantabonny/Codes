@@ -1,0 +1,14 @@
+package hackerrank_challenge;
+import java.util.*;
+import java.math.*;
+public class ExtraLongFactorials {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner sc= new Scanner(System.in);
+		BigInteger f = new BigInteger(sc.next());
+
+	}
+
+}
